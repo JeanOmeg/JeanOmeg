@@ -1,6 +1,6 @@
 ## Olá, eu sou o Jean Francisco dos Santos Fernandes, mas podem me chamar de JeanOmeg.
 
-## Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia desde criança 🤓❤️🎮💻
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia desde criança 🤓❤️🎮💻
 
 <br>
 

@@ -1,4 +1,4 @@
-<h3>Olá, sou o Jean, e este é meu repositório de projetos e estudos</h3>
+<h2>Olá, sou o Jean, e este é meu repositório de projetos e estudos</h2>
 Apaixonado por tecnologia desde criança, sempre gostei de "fuçar" e descobrir como as coisas funcionavam.
 Atualmente trabalho como vigia, mas estou cursando Análise e Desenvolvimento de Sistemas, além de estar fazendo vários cursos e bootcamps em paralelo a faculdade.
 Sei que tenho muito o que aprender, e tenho plena consciência que passarei o resto da minha vida estudando, e pra ser sincero, isso é o que me deixa mais animado!

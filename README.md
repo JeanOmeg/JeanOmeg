@@ -1,4 +1,6 @@
+<div align="center">
 <h2>Olá, sou o Jean, e este é meu repositório de projetos e estudos</h2>
+</div>
 <br>
 <br>
 <div align="center">
